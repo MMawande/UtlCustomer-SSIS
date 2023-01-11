@@ -1,0 +1,5 @@
+StatesId,StatesName
+1,Easterncape
+2,Madrid
+3,New_Camp
+4,Mlazi

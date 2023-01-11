@@ -1,0 +1,9 @@
+CustomerCode,customerName,CustomerAmount,salesDateCountryName,SateName,Productname,SalesPersonName
+1009,ramesh,300,1/1/2010
+1010,ganesh,300,2/2/2012
+1011,srijan,400,1/1/2013
+1012,lama,500,3/3/2014
+1013,frikit,700,5/10/2014
+1014,kamlesh,-100,3/2/2015
+1015,bhavnesh,0,4/5/2015
+1016,sanjay,1240,5/5/2022

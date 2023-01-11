@@ -1,0 +1,4 @@
+CustomerCode,customerName,CustomerAmount,salesDate,CountryName,StateName,Productname,SalesPersonName
+1021,Ngcobo,234,1/12/2011,Peru,perit,rama,robert
+1022,makubalo,5,2/11/2019,Zweden,tokr,samp,Ibrahimovich
+5672,sizwe,31,1/12/2022,england,liverpool,trouser,maguire

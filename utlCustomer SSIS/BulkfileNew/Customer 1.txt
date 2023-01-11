@@ -1,0 +1,8 @@
+CustomerCode,customerName,CustomerAmount,salesDate,CountryName,StateName,Productname,SalesPersonName
+1001,Shiv,12,1/1/2012,UnitedKingdom,NewYork,shoes,Janco
+1002,raj,300,2/2/2012,America,LosAngels,tshirt,cole
+1003,ajay,400,1/1/2013,SA,EasternCape,boots,Lonwabo
+1004,khadak,500,3/3/2014,Spain,Madrid,pants,Vasquez
+1006,rahul,-100,3/3/2015,Portugal,Porto,desk,Pepe
+1007,rohit,0,4/5/2015,japan,Huwan,Snikers,Son
+1008,sanjay,1240,5/5/2015,Germany,munich,jeans,Linus

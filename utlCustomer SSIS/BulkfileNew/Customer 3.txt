@@ -1,0 +1,5 @@
+CustomerCode,customerName,CustomerAmount,salesDate,CountryName,StateName,Productname,SalesPersonName
+1017,Mawanda,4567,2/12/2022,tagun,dady,mouse,ene
+1018,lonwabo,456,3/12/2022,Agentina,spellr,pole,Messi
+1019,aditi,478,9/11/2022,Kenya,narobi,table,Nakajima
+1020,Janco,890,1/11/2022,senegal,twru,shoes,mane

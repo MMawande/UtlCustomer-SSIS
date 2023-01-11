@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="C175L0072156621_MSQL_SERVER_MSBI.Customer_Data_Warehouse"
+  DTS:DTSID="{382095E5-C279-4A44-9E6D-92F576F8664E}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=C175L0072156621\MSQL_SERVER_MSBI;Initial Catalog=Customer_Data_Warehouse;Integrated Security=True;Application Name=SSIS-SSISCustomer-{382095E5-C279-4A44-9E6D-92F576F8664E}C175L0072156621\MSQL_SERVER_MSBI.Customer_Data_Warehouse;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

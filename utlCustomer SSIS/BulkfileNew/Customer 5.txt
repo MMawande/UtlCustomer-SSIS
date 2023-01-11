@@ -1,0 +1,3 @@
+CustomerCode,customerName,CustomerAmount,salesDate,CountryName,StateName,Productname,SalesPersonName
+1023,Bakholise,290,2/2/2020,England,britain,seal,manana
+1024,Shaun,478,2/7/2021,Netherlands,Dutchel,meal,Van_de_beek
